@@ -1,6 +1,19 @@
 # Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Installation Instructions (Sorry I did not add this)
+
+### 1. Install Node 
+#### - 64bit https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi
+#### - 32bit https://nodejs.org/dist/v18.15.0/node-v18.15.0-x86.msi
+
+### 2. Open VSCode
+#### - Open project folder
+#### - Open terminal
+#### - Type `npm install`
+#### - You should see that everything was installed over time
+#### - Type `npm start`
+#### - Your application should be running!
 
 ## Available Scripts
 
